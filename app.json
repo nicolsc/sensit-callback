@@ -1,6 +1,6 @@
 {
   "name": "Sensit callback",
-  "description": "A quick-to-deploy Sens'it callback handler. Receive your messages, store them in a datasotre & display the history on a webpage. Sensit is using the SIGFOX network to communicate",
+  "description": "A quick-to-deploy Sens'it callback handler.",
   "repository": "https://github.com/nicolsc/sensit-callback",
   "logo": "http://www.sigfox.com/static/sigfox/img/src/logo-sigfox.png",
   "keywords": ["sigfox", "sensit", "callback", "iot"]
